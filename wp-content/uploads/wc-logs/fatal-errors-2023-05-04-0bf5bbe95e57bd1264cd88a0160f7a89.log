@@ -1,0 +1,8 @@
+2023-05-04T06:35:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecom\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-05-04T07:21:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecom\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-05-04T07:28:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecom\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\ReviewsListTable.php on line 1524
+
+2023-05-04T07:30:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecom\wp-includes\Requests\src\Transport\Curl.php on line 275
+
